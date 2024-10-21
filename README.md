@@ -1,4 +1,4 @@
-# NewsHub - Frontend Development
+# NewsHub 
 NewsHub is a responsive news application that fetches articles from the News API, providing users with a clean and intuitive interface for browsing the latest news.
 
 ## Tech Stack
