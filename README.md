@@ -1,6 +1,12 @@
 # NewsHub 
 NewsHub is a responsive news application that fetches articles from the News API, providing users with a clean and intuitive interface for browsing the latest news.
 
+## Features
+- **Responsive Design:** Built with Bootstrap to ensure a seamless experience across devices.
+- **Dynamic Routing:** Implemented React Router for effortless navigation between different news categories.
+- **Component State Management:** Utilized React's lifecycle methods to manage component state for optimal performance.
+- **Infinite Scrolling:** Enhanced user experience with infinite scrolling for articles, allowing users to load more content seamlessly.
+
 ## Tech Stack
 - React
 - JavaScript
@@ -9,13 +15,7 @@ NewsHub is a responsive news application that fetches articles from the News API
 - Bootstrap
 - Git
 - News API
-- React Router
-
-## Features
-- **Responsive Design:** Built with Bootstrap to ensure a seamless experience across devices.
-- **Dynamic Routing:** Implemented React Router for effortless navigation between different news categories.
-- **Component State Management:** Utilized React's lifecycle methods to manage component state for optimal performance.
-- **Infinite Scrolling:** Enhanced user experience with infinite scrolling for articles, allowing users to load more content seamlessly.
+- React Router  
 
 ![368480932-365ade40-14dc-4126-9e74-0d536a230b91](https://github.com/user-attachments/assets/796aad91-b2cb-454b-ac81-93546bb0d71e)
 ![368480362-85ff69a1-c19c-4c81-b39b-139a7465862e](https://github.com/user-attachments/assets/984dcb20-fd04-4867-b588-19ac0f8ac6e1)
