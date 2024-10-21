@@ -2,10 +2,14 @@
 NewsHub is a responsive news application that fetches articles from the News API, providing users with a clean and intuitive interface for browsing the latest news.
 
 ## Tech Stack
-- **Frontend:** React, JavaScript, HTML, CSS, Bootstrap
-- **APIs:** News API
-- **Routing:** React Router
-- **Version Control:** Git
+- React
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
+- Git
+- News API
+- React Router
 
 ## Features
 - **Responsive Design:** Built with Bootstrap to ensure a seamless experience across devices.
