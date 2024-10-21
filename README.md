@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+# NewsHub - Frontend Development
+NewsHub is a responsive news application that fetches articles from the News API, providing users with a clean and intuitive interface for browsing the latest news.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Tech Stack
+- **Frontend:** React, JavaScript, HTML, CSS, Bootstrap
+- **APIs:** News API
+- **Routing:** React Router
+- **Version Control:** Git
 
-## Available Scripts
+## Features
+- **Responsive Design:** Built with Bootstrap to ensure a seamless experience across devices.
+- **Dynamic Routing:** Implemented React Router for effortless navigation between different news categories.
+- **Component State Management:** Utilized React's lifecycle methods to manage component state for optimal performance.
+- **Infinite Scrolling:** Enhanced user experience with infinite scrolling for articles, allowing users to load more content seamlessly.
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![368480932-365ade40-14dc-4126-9e74-0d536a230b91](https://github.com/user-attachments/assets/796aad91-b2cb-454b-ac81-93546bb0d71e)
+![368480362-85ff69a1-c19c-4c81-b39b-139a7465862e](https://github.com/user-attachments/assets/984dcb20-fd04-4867-b588-19ac0f8ac6e1)
+![368481165-36b53e46-c899-450c-880a-1485b2d47925](https://github.com/user-attachments/assets/7a39c46f-376f-4532-a356-ebf945a44054)
+![368481271-83e0a341-72d9-4cf3-a198-858d170099e5](https://github.com/user-attachments/assets/35b31420-19b1-41e4-b05d-a76e820930bb)
+![368481356-f7be6e6c-61aa-49d7-b66c-06b6d02acd1d](https://github.com/user-attachments/assets/729d0439-3599-42ba-b311-a5d41021104c)
+![368482344-d8e238da-6271-4b2d-91f2-cb08fb0af807](https://github.com/user-attachments/assets/90ffde5f-e426-4832-b4a2-f5f41e874368)
+![368482469-7bcd92c3-0129-4e2b-a9f4-5424ce2520e4](https://github.com/user-attachments/assets/3e46a7a5-2a09-455c-b8fd-3c70bc9c6aab)
+![368482658-94575bc4-94e6-4b90-b75e-0c4fdfd4b8ee](https://github.com/user-attachments/assets/f2a9c6a3-c5aa-44fa-933b-4335df2ab188)
+![368482781-65cd81b4-dde6-4e88-b39d-3ce3a580767b](https://github.com/user-attachments/assets/1fdcd5aa-a417-4950-a42b-f2fbf9feedab)
+![368482915-0bf5d3c3-001d-4c89-9975-29dbd2aa0d52](https://github.com/user-attachments/assets/7c28acd3-f3e7-4493-9e6f-577b85e984df)
+![368518841-6fd0fca7-d5a4-414c-b7c2-1f5c7beaf8d0](https://github.com/user-attachments/assets/314d7648-8777-4c07-bab1-58edf24bc2aa)
+![368519026-0009aa2d-6722-4e61-afde-90c301dc0a43](https://github.com/user-attachments/assets/04d5b3a1-34b7-4997-ba4c-008399dd26fa)
+![368519160-a04fe7a0-3dae-4fc1-bc40-a68f37700989](https://github.com/user-attachments/assets/a1ada245-2048-4261-85a8-6e9aa011be07)
